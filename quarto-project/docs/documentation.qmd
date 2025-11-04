@@ -1,0 +1,27 @@
+# Documentation for Quarto Project
+
+## Overview
+
+This project is designed to provide insights and analysis on getting started with developer and data science tools at NIH. It includes various components such as data analysis, visualizations, and video resources to enhance understanding.
+
+## Usage Instructions
+
+1. **Installation**: 
+   - Ensure you have Quarto installed on your system. You can download it from [Quarto's official website](https://quarto.org/docs/get-started/).
+   - Clone this repository to your local machine.
+
+2. **Running the Analysis**:
+   - Navigate to the `src` directory.
+   - Open `analysis.qmd` in your preferred editor.
+   - Render the document using Quarto to view the analysis results.
+
+3. **Accessing Video Content**:
+   - For video tutorials and explanations, refer to the links provided in the `videos/video-links.md` file.
+
+## Contributing
+
+If you would like to contribute to this project, please fork the repository and submit a pull request with your changes.
+
+## License
+
+This project is licensed under the [insert license here]. Please see the LICENSE file for more details.

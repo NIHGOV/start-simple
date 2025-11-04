@@ -1,0 +1,28 @@
+project: quarto-project
+title: "NIH Start Simple"
+author: "@webermn"
+format:
+  html:
+    toc: true
+    number-sections: true
+  pdf:
+    documentclass: article
+    number-sections: true
+execute:
+  echo: false
+  warning: false
+  message: false
+  error: true
+site:
+  title: "NIH Start Simple"
+  description: "Documentation and resources for getting started at NIH using developer and data science tools."
+  navbar:
+    right:
+      - text: "Home"
+        href: index.qmd
+      - text: "Documentation"
+        href: docs/documentation.qmd
+      - text: "Videos"
+        href: videos/video-links.md
+      - text: "Analysis"
+        href: src/analysis.qmd
