@@ -1,5 +1,19 @@
 [
   {
+    "objectID": "src/analysis.html",
+    "href": "src/analysis.html",
+    "title": "NIH Start Simple",
+    "section": "",
+    "text": "1 Insert code to generate the first visualization here"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "NIH Start Simple",
+    "section": "",
+    "text": "Welcome to the NIH Start Simple documentation site."
+  },
+  {
     "objectID": "docs/documentation.html",
     "href": "docs/documentation.html",
     "title": "NIH Start Simple",
@@ -35,13 +49,6 @@
     "text": "This project is licensed under the [insert license here]. Please see the LICENSE file for more details."
   },
   {
-    "objectID": "src/analysis.html",
-    "href": "src/analysis.html",
-    "title": "NIH Start Simple",
-    "section": "",
-    "text": "1 Insert code to generate the first visualization here"
-  },
-  {
     "objectID": "videos/video-links.html",
     "href": "videos/video-links.html",
     "title": "NIH Start Simple",
@@ -54,12 +61,5 @@
     "title": "NIH Start Simple",
     "section": "",
     "text": "Introduction to the Quarto Project\nHow to Use the Analysis Features\nDocumentation Walkthrough\nAdvanced Visualization Techniques\n\nFeel free to explore these videos for a better understanding of the project!"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "NIH Start Simple",
-    "section": "",
-    "text": "Welcome to the NIH Start Simple documentation site."
   }
 ]
