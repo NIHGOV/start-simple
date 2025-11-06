@@ -1,4 +1,6 @@
-project: quarto-project
+project:
+  type: website
+  output-dir: docs
 title: "NIH Start Simple"
 author: "@webermn"
 format:

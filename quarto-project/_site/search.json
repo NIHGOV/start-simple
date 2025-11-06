@@ -1,0 +1,65 @@
+[
+  {
+    "objectID": "src/analysis.html",
+    "href": "src/analysis.html",
+    "title": "NIH Start Simple",
+    "section": "",
+    "text": "1 Insert code to generate the first visualization here"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "NIH Start Simple",
+    "section": "",
+    "text": "Welcome to the NIH Start Simple documentation site."
+  },
+  {
+    "objectID": "docs/documentation.html",
+    "href": "docs/documentation.html",
+    "title": "NIH Start Simple",
+    "section": "",
+    "text": "This project is designed to provide insights and analysis on getting started with developer and data science tools at NIH. It includes various components such as data analysis, visualizations, and video resources to enhance understanding.\n\n\n\n\nInstallation:\n\nEnsure you have Quarto installed on your system. You can download it from Quarto’s official website.\nClone this repository to your local machine.\n\nRunning the Analysis:\n\nNavigate to the src directory.\nOpen analysis.qmd in your preferred editor.\nRender the document using Quarto to view the analysis results.\n\nAccessing Video Content:\n\nFor video tutorials and explanations, refer to the links provided in the videos/video-links.md file.\n\n\n\n\n\nIf you would like to contribute to this project, please fork the repository and submit a pull request with your changes.\n\n\n\nThis project is licensed under the [insert license here]. Please see the LICENSE file for more details."
+  },
+  {
+    "objectID": "docs/documentation.html#overview",
+    "href": "docs/documentation.html#overview",
+    "title": "NIH Start Simple",
+    "section": "",
+    "text": "This project is designed to provide insights and analysis on getting started with developer and data science tools at NIH. It includes various components such as data analysis, visualizations, and video resources to enhance understanding."
+  },
+  {
+    "objectID": "docs/documentation.html#usage-instructions",
+    "href": "docs/documentation.html#usage-instructions",
+    "title": "NIH Start Simple",
+    "section": "",
+    "text": "Installation:\n\nEnsure you have Quarto installed on your system. You can download it from Quarto’s official website.\nClone this repository to your local machine.\n\nRunning the Analysis:\n\nNavigate to the src directory.\nOpen analysis.qmd in your preferred editor.\nRender the document using Quarto to view the analysis results.\n\nAccessing Video Content:\n\nFor video tutorials and explanations, refer to the links provided in the videos/video-links.md file."
+  },
+  {
+    "objectID": "docs/documentation.html#contributing",
+    "href": "docs/documentation.html#contributing",
+    "title": "NIH Start Simple",
+    "section": "",
+    "text": "If you would like to contribute to this project, please fork the repository and submit a pull request with your changes."
+  },
+  {
+    "objectID": "docs/documentation.html#license",
+    "href": "docs/documentation.html#license",
+    "title": "NIH Start Simple",
+    "section": "",
+    "text": "This project is licensed under the [insert license here]. Please see the LICENSE file for more details."
+  },
+  {
+    "objectID": "videos/video-links.html",
+    "href": "videos/video-links.html",
+    "title": "NIH Start Simple",
+    "section": "",
+    "text": "This document lists links to video content related to the NIH Start Simple project. These resources can help users understand the project better and provide visual guidance on its usage.\n\n\n\nIntroduction to the Quarto Project\nHow to Use the Analysis Features\nDocumentation Walkthrough\nAdvanced Visualization Techniques\n\nFeel free to explore these videos for a better understanding of the project!"
+  },
+  {
+    "objectID": "videos/video-links.html#video-resources",
+    "href": "videos/video-links.html#video-resources",
+    "title": "NIH Start Simple",
+    "section": "",
+    "text": "Introduction to the Quarto Project\nHow to Use the Analysis Features\nDocumentation Walkthrough\nAdvanced Visualization Techniques\n\nFeel free to explore these videos for a better understanding of the project!"
+  }
+]
