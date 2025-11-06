@@ -1,4 +1,5 @@
-project: quarto-project
+project:
+  type: website
 title: "NIH Start Simple"
 author: "@webermn"
 format:
